@@ -79,17 +79,22 @@ Open Ticket #249699
 <img src="https://i.imgur.com/KGATJ4M.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 Update Priority Level
-<img src="https://i.imgur.com/Bc2qWpr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bc2qWpr.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Assign to a Team
-<img src="https://i.imgur.com/rQP6s53.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rQP6s53.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Update SLA Plan
-<img src="https://i.imgur.com/kF1hLNy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kF1hLNy.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Transfer Department
-<img src="https://i.imgur.com/WPF4ZZf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WPF4ZZf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
+Post reply a on the pending ticket
+<img src="https://i.imgur.com/fpwRIhQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lDFzQoU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e0mpOHs.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lLOqAM0.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
 Ticket examples:
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
