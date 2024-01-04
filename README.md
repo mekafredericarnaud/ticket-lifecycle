@@ -61,13 +61,35 @@ a. [Entire accounting department Adobe Reader is not working].
 <img src="https://i.imgur.com/lLOqAM0.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  
 - ASSIGNMENT AND COMMUNICATION
 </p>
 Browse to your help desk login page: http//localhost/osTicket/scp/login.php
 </p>
-<img src="https://i.imgur.com/9wID1dh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9wID1dh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-
+1. Log in in as Agent "Jane do" and triage tickets.
+</p>
+<img src="https://i.imgur.com/hnFCZAZ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fD26IfJ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+a. [Entire mobile online banking is down].
+</p>
+Open Ticket #249699
+<img src="https://i.imgur.com/KGATJ4M.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+Update Priority Level
+<img src="https://i.imgur.com/Bc2qWpr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+Assign to a Team
+<img src="https://i.imgur.com/rQP6s53.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Update SLA Plan
+<img src="https://i.imgur.com/kF1hLNy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Transfer Department
+<img src="https://i.imgur.com/WPF4ZZf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
 Ticket examples:
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
@@ -76,7 +98,7 @@ Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
 <p>
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kF1hLNy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we are going to log in osTicket as a Help Desk User to troubleshoot and solve those tickets. 
