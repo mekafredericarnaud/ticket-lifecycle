@@ -29,10 +29,45 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+- INTAKE
+</p>
 We are going to create few tickets on the End Users osTicket URL: http://localhost/osTicket/
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vCTcv8J.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+1-Sign in as User "Karen" and create two tickets:
+</p>
+a. [Entire mobile online banking is down].
+</p>
+<img src="https://i.imgur.com/FMg52eo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Tx2wjVb.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HfzWxpq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WihRQzY.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+b. [When are we getting a hardware refresh].
+</p>
+<img src="https://i.imgur.com/hQQsg9n.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tXev2Je.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hez52AR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ewG3sOP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+2-Sing in as User "Ken" and create a ticket:
+</p>
+a. [Entire accounting department Adobe Reader is not working].
+</p>
+<img src="https://i.imgur.com/fpwRIhQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lDFzQoU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e0mpOHs.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lLOqAM0.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- ASSIGNMENT AND COMMUNICATION
+</p>
+Browse to your help desk login page: http//localhost/osTicket/scp/login.php
+</p>
+<img src="https://i.imgur.com/9wID1dh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
 Ticket examples:
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
@@ -40,6 +75,7 @@ Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
 Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
 <p>
+</p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
