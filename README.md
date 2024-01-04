@@ -91,10 +91,10 @@ Transfer Department
 <img src="https://i.imgur.com/WPF4ZZf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Post reply a on the pending ticket
-<img src="https://i.imgur.com/fpwRIhQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/lDFzQoU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/e0mpOHs.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/lLOqAM0.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kklwYBr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/82mf9o9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XBvXj5b.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/001mF6j.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
 Ticket examples:
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
