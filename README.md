@@ -103,7 +103,14 @@ Open Ticket #947169, update Priority Level, SLA Plan, assign to "John do", trans
 <img src="https://i.imgur.com/19i2LHF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/1rBI2jl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+c. [When are we getting a hardware refresh].
+</p>
+Open Ticket #306629, update Priority Level, SLA Plan, assign to "Jane do" and transfer Department
+<img src="https://i.imgur.com/uqnCjr2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+</p>
 
+- 
 Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
 Ticket examples:
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
