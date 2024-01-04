@@ -81,7 +81,7 @@ Open Ticket #249699
 Update Priority Level
 <img src="https://i.imgur.com/Bc2qWpr.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-Assign to a Team
+Assign to "Jane do"
 <img src="https://i.imgur.com/rQP6s53.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Update SLA Plan
@@ -90,11 +90,20 @@ Update SLA Plan
 Transfer Department
 <img src="https://i.imgur.com/WPF4ZZf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-Post reply a on the pending ticket
+Post a reply on the pending ticket
 <img src="https://i.imgur.com/kklwYBr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/82mf9o9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/XBvXj5b.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/001mF6j.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+b. [Entire accounting department Adobe Reader is not working].
+</p>
+Open Ticket #947169, update Priority Level, SLA Plan, assign to "John do", transfer Department and Post a reply
+<img src="https://i.imgur.com/zzV2OxK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/19i2LHF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1rBI2jl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
 Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
 Ticket examples:
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
