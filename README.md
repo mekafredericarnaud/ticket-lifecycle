@@ -24,8 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake
 - Assignment and Communication
-- Working the Issue
-- Resolution
+- Working on tickets and Resolve
 
 <h2>Lifecycle Stages</h2>
 
@@ -51,7 +50,7 @@ b. [When are we getting a hardware refresh].
 <img src="https://i.imgur.com/Hez52AR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ewG3sOP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-2-Sing in as User "Ken" and create a ticket:
+2-Sign in as User "Ken" and create a ticket:
 </p>
 a. [Entire accounting department Adobe Reader is not working].
 </p>
@@ -68,7 +67,7 @@ Browse to your help desk login page: http//localhost/osTicket/scp/login.php
 </p>
 <img src="https://i.imgur.com/9wID1dh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-1. Log in in as Agent "Jane do" and triage tickets.
+Log in as Agent "Jane do" and triage tickets.
 </p>
 <img src="https://i.imgur.com/hnFCZAZ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/fD26IfJ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -98,46 +97,50 @@ Post a reply on the pending ticket
 </p>
 b. [Entire accounting department Adobe Reader is not working].
 </p>
-Open Ticket #947169, update Priority Level, SLA Plan, assign to "John do", transfer Department and Post a reply
+Open Ticket #947169, update Priority Level, SLA Plan, assign to "John do" and transfer Department
 <img src="https://i.imgur.com/zzV2OxK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/19i2LHF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/1rBI2jl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 c. [When are we getting a hardware refresh].
 </p>
 Open Ticket #306629, update Priority Level, SLA Plan, assign to "Jane do" and transfer Department
 <img src="https://i.imgur.com/uqnCjr2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
+
+- WORKING ON TICKETS AND RESOLVE
+</p>
+1-Log in as Agent "Jane do"
+</p>
+<img src="https://i.imgur.com/hnFCZAZ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+a. Update and close tickets
+</p>
+- Ticket #249699 [entire mobile/online banking system is down]
+<img src="https://i.imgur.com/iakZSeH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AQ3qgPh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o4YRkIw.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+- Ticket #306629 [When are we getting a hardware refresh]
+<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+b. Tickets Status
+<img src="https://i.imgur.com/BGFq6OQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+2-Log in as Agent "John do"
+</p>
+<img src="https://i.imgur.com/I14FnfB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+a. Update and close ticket
+</p>
+- Ticket #947169 [Entire accounting department Adobe Reader is not working]
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+b. Tickets Status
+<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
-Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
-Ticket examples:
-Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
-Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
-Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
-<p>
-</p>
-<img src="https://i.imgur.com/kF1hLNy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Now we are going to log in osTicket as a Help Desk User to troubleshoot and solve those tickets. 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
