@@ -129,15 +129,15 @@ b. Tickets Status
 </p>
 2-Log in as Agent "John do"
 </p>
-<img src="https://i.imgur.com/I14FnfB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I14FnfB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 a. Update and close ticket
 </p>
 - Ticket #947169 [Entire accounting department Adobe Reader is not working]
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 b. Tickets Status
 <img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
