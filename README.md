@@ -121,8 +121,9 @@ a. Update and close tickets
 <img src="https://i.imgur.com/o4YRkIw.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 - Ticket #306629 [When are we getting a hardware refresh]
-<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cnx0et9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uig7jlr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iOyhcje.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 b. Tickets Status
 <img src="https://i.imgur.com/BGFq6OQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -137,6 +138,6 @@ a. Update and close ticket
 <img src="https://i.imgur.com/fkniURh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/y1Mdj1p.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-b. Tickets Status
-<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+b. No Open Ticket left on John's account
+<img src="https://i.imgur.com/z0VfptW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
