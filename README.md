@@ -134,13 +134,9 @@ b. Tickets Status
 a. Update and close ticket
 </p>
 - Ticket #947169 [Entire accounting department Adobe Reader is not working]
-<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fkniURh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y1Mdj1p.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 b. Tickets Status
 <img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-
-
